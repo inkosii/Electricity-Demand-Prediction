@@ -47,7 +47,7 @@ The project applies time series forecasting models, specifically ARIMAX model, t
 4. **Model Evaluation**: Assessing the performance of the model using various error metrics.
 
 ## Implementation
-The notebook file `Electricity_Demand.ipynb` contains detailed steps on how the model is built, trained, and evaluated.
+The notebook file `ElectricityDemand.ipynb` contains detailed steps on how the model is built, trained, and evaluated.
 
 ### Key Sections:
 1. **Data Preprocessing**: 
