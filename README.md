@@ -9,7 +9,7 @@ This repository contains a Jupyter notebook for predicting electricity demand us
 4. [Implementation](#implementation)
 5. [Results](#results)
 6. [Future Work](#future-work)
-7. [License](#license)
+
 
 ## Project Overview
 In this project, I explore various machine learning techniques to forecast electricity demand over a given time period. The dataset includes variables such as temperature, hour of the day, and region, which are used to train an ARIMA model to predict future electricity demand.
